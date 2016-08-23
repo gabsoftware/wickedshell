@@ -27,6 +27,9 @@
            <operatingSystem name="Windows NT (unknown)"/>
            <operatingSystem name="Windows Vista"/>
            <operatingSystem name="Windows 7"/>
+           <operatingSystem name="Windows 8"/>
+           <operatingSystem name="Windows 8.1"/>
+           <operatingSystem name="Windows 10"/>
            <executableFile
                  extension=".exe"
                  isBatchFile="false"

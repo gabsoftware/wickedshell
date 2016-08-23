@@ -372,6 +372,15 @@ public interface IShellDescriptor {
 			else if(ShellID.WINDOWS_7_NAME.equalsIgnoreCase(operatingSystem)) {
 				return DomainID.CMD_SHELL_DESCRIPTOR_ID;
 			}
+			else if(ShellID.WINDOWS_8_NAME.equalsIgnoreCase(operatingSystem)) {
+				return DomainID.CMD_SHELL_DESCRIPTOR_ID;
+			}
+			else if(ShellID.WINDOWS_81_NAME.equalsIgnoreCase(operatingSystem)) {
+				return DomainID.CMD_SHELL_DESCRIPTOR_ID;
+			}
+			else if(ShellID.WINDOWS_10_NAME.equalsIgnoreCase(operatingSystem)) {
+				return DomainID.CMD_SHELL_DESCRIPTOR_ID;
+			}
 			else if(ShellID.LINUX_NAME.equalsIgnoreCase(operatingSystem)) {
 				return DomainID.BASH_SHELL_DESCRIPTOR_ID;
 			}
