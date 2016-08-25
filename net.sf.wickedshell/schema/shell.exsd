@@ -262,6 +262,12 @@
                   </enumeration>
                   <enumeration value="Windows 7">
                   </enumeration>
+                  <enumeration value="Windows 8">
+                  </enumeration>
+                  <enumeration value="Windows 8.1">
+                  </enumeration>
+                  <enumeration value="Windows 10">
+                  </enumeration>
                   <enumeration value="Linux">
                   </enumeration>
                   <enumeration value="Mac OS X">

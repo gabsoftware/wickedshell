@@ -92,6 +92,15 @@ public class ShellID {
 	public static final String WINDOWS_7_NAME = "Windows 7";
 
 	/** OS constant. */
+	public static final String WINDOWS_8_NAME = "Windows 8";
+
+	/** OS constant. */
+	public static final String WINDOWS_81_NAME = "Windows 8.1";
+
+	/** OS constant. */
+	public static final String WINDOWS_10_NAME = "Windows 10";
+
+	/** OS constant. */
 	public static final String LINUX_NAME = "Linux";
 
 	/** OS constant. */
@@ -99,7 +108,8 @@ public class ShellID {
 
 	/** The array of all supported OSs. */
 	public static final String[] SUPPORTED_OS = new String[] { WINDOWS_95_NAME, WINDOWS_98_NAME, WINDOWS_NT_NAME, WINDOWS_2000_NAME, WINDOWS_2003_NAME,
-			WINDOWS_2003_SERVER_NAME, WINDOWS_XP_NAME, WINDOWS_VISTA_BETA_NAME, WINDOWS_VISTA_NAME, WINDOWS_7_NAME, LINUX_NAME, MAC_OS_X };
+			WINDOWS_2003_SERVER_NAME, WINDOWS_XP_NAME, WINDOWS_VISTA_BETA_NAME, WINDOWS_VISTA_NAME,
+			WINDOWS_7_NAME, WINDOWS_8_NAME, WINDOWS_81_NAME, WINDOWS_10_NAME, LINUX_NAME, MAC_OS_X };
 
 	/** The name of the shellErrorReader. */
 	public static final String SHELL_ERROR_READER_NAME = "ShellErrorReader";
